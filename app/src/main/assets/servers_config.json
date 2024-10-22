@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "PROD",
+      "threadsGateProviderUid": "YmV0YS1wcm9kLmVkbmEucnU7O2FuZHJvaWQ7OzIwMjIwMzI4",
+      "serverBaseUrl": "https://beta-prod.edna.ru/",
+      "datastoreUrl": "https://beta-prod.edna.ru/",
+      "threadsGateUrl": "wss://beta-prod.edna.ru/socket"
+    }
+  ]
+}
