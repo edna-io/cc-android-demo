@@ -91,6 +91,7 @@ dependencies {
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.0.4'
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'edna.chatcenter.ui.android:release:5.1'
 
     implementation "androidx.core:core-ktx:1.12.0"
     implementation "org.jetbrains.kotlin:kotlin-reflect:1.9.10"
@@ -100,9 +101,6 @@ dependencies {
 
     implementation "androidx.navigation:navigation-fragment-ktx:2.7.7"
     implementation "androidx.navigation:navigation-ui-ktx:2.7.7"
-
-    // Edna SDK
-    implementation 'edna.chatcenter.ui.android:release:5.0'
 
     // Koin main features for Android
     implementation "io.insert-koin:koin-android:3.2.0"
