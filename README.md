@@ -1,13 +1,16 @@
 ## edna ChatCenter
 
-Тестовый проект с демонстрацией интеграции SDK в приложение
+Demo project with examples of SDK integration
 
 
-### Документация по SDK:
-https://docs-sdk.edna.ru/android/intro
+### Docs
 
-### Информация по продукту:
-https://edna.ru/](https://edna.ru/chat-center
+https://edna-io.github.io/android/intro
 
-### Для вопросов по подключению и настройке: 
-support@edna.ru
+### About ChatCenter
+
+https://edna.io/products-chat-center/
+
+### Support
+
+support@edna.io
