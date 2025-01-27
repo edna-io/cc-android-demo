@@ -26,4 +26,5 @@ val appModule = module {
     viewModel { AddServerViewModel(get()) }
     viewModel { DemoSamplesViewModel(get(), get()) }
     viewModel { DemoSamplesListViewModel(get(), get(), get()) }
+    viewModel { LogViewModel() }
 }
